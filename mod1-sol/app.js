@@ -26,3 +26,4 @@ $scope.enjoy = function() {
 };
 }
 
+})();  
